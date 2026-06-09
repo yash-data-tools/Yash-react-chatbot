@@ -15,10 +15,23 @@
   border-width: 1px;
   font-size: 15px;
   flex-grow: 1;
+  min-width: 0;
 }
 
 .chat-input-container {
   display: flex;
-  margin-bottom: 60px;
+  gap: 10px;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
 
+@media (max-width: 600px) {
+  .chat-input-container {
+    padding: 10px;
+  }
+
+  .send-button {
+    padding: 12px;
+    margin-left: 0;
+  }
 }
