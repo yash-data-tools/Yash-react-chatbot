@@ -4,7 +4,7 @@ A simple chatbot built with React that can respond to predefined user messages.
 
 ## Live Demo
 
-[View Website](YOUR_VERCEL_LINK_HERE)
+[View Website](https://yash-react-chatbot.vercel.app/)
 
 ## Features
 
@@ -30,7 +30,7 @@ A simple chatbot built with React that can respond to predefined user messages.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone [YOUR_GITHUB_LINK](https://github.com/yash-data-tools/Yash-react-chatbot.git)
 ```
 
 Install dependencies:
