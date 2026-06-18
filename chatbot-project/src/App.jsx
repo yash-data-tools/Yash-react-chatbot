@@ -14,6 +14,8 @@ function App() {
       "hi": "Hello! 👋",
       "hello": "Hello there!",
       "hey": "Hey! 👋",
+      "krishnakant":"KrishnaKant is a friend of Yash and a  nerd.",
+      "farhan":"Farhan is also a friend of Yash like kks but not a nerd",
 
       "how are you": "I'm doing great! How about you?",
 
