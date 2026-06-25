@@ -12,6 +12,7 @@ function App() {
   useEffect(() => {
     Chatbot.addResponses({
       "hi": "Hello! 👋, How can I help you?",
+      "Hi": "Hello! 👋, How can I help you?",
       "hello": "Hello there!",
       "hey": "Hey! 👋",
       "krishnakant":"KrishnaKant is a friend of Yash and a  nerd.",
