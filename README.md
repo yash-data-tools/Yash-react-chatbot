@@ -56,14 +56,6 @@ src/
 └── main.jsx
 ```
 
-## Future Improvements
-
-- AI-powered responses
-- Dark mode
-- Better mobile UI
-- User avatars
-- Chat history export
-
 ## Author
 
 Created by Yash Kumar Shaw 🚀
